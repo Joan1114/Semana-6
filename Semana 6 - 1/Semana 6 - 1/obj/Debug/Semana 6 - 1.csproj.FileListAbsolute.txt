@@ -1,0 +1,5 @@
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 1\Semana 6 - 1\bin\Debug\Semana 6 - 1.exe.config
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 1\Semana 6 - 1\bin\Debug\Semana 6 - 1.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 1\Semana 6 - 1\bin\Debug\Semana 6 - 1.pdb
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 1\Semana 6 - 1\obj\Debug\Semana 6 - 1.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 1\Semana 6 - 1\obj\Debug\Semana 6 - 1.pdb

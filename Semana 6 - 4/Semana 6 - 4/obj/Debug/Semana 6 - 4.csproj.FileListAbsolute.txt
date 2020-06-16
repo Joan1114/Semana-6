@@ -1,0 +1,6 @@
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 4\Semana 6 - 4\bin\Debug\Semana 6 - 4.exe.config
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 4\Semana 6 - 4\bin\Debug\Semana 6 - 4.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 4\Semana 6 - 4\bin\Debug\Semana 6 - 4.pdb
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 4\Semana 6 - 4\obj\Debug\Semana 6 - 4.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 4\Semana 6 - 4\obj\Debug\Semana 6 - 4.pdb
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 4\Semana 6 - 4\obj\Debug\Semana 6 - 4.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 2do\Semana 6 - 2do\bin\Debug\Semana 6 - 2do.exe.config
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 2do\Semana 6 - 2do\bin\Debug\Semana 6 - 2do.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 2do\Semana 6 - 2do\bin\Debug\Semana 6 - 2do.pdb
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 2do\Semana 6 - 2do\obj\Debug\Semana 6 - 2do.csprojResolveAssemblyReference.cache
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 2do\Semana 6 - 2do\obj\Debug\Semana 6 - 2do.exe
+c:\users\jose manuel\documents\visual studio 2013\Projects\Semana 6 - 2do\Semana 6 - 2do\obj\Debug\Semana 6 - 2do.pdb
+C:\Users\JOSE MANUEL\Desktop\Semana 6\Semana 6 - 2do\Semana 6 - 2do\bin\Debug\Semana 6 - 2do.exe.config
+C:\Users\JOSE MANUEL\Desktop\Semana 6\Semana 6 - 2do\Semana 6 - 2do\obj\Debug\Semana 6 - 2do.exe
+C:\Users\JOSE MANUEL\Desktop\Semana 6\Semana 6 - 2do\Semana 6 - 2do\obj\Debug\Semana 6 - 2do.pdb
